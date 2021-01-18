@@ -1,0 +1,13 @@
+C:\Users\Techverx\source\repos\basics\basics\bin\Debug\netcoreapp3.1\basics.exe
+C:\Users\Techverx\source\repos\basics\basics\bin\Debug\netcoreapp3.1\basics.deps.json
+C:\Users\Techverx\source\repos\basics\basics\bin\Debug\netcoreapp3.1\basics.runtimeconfig.json
+C:\Users\Techverx\source\repos\basics\basics\bin\Debug\netcoreapp3.1\basics.runtimeconfig.dev.json
+C:\Users\Techverx\source\repos\basics\basics\bin\Debug\netcoreapp3.1\basics.dll
+C:\Users\Techverx\source\repos\basics\basics\bin\Debug\netcoreapp3.1\basics.pdb
+C:\Users\Techverx\source\repos\basics\basics\obj\Debug\netcoreapp3.1\basics.csprojAssemblyReference.cache
+C:\Users\Techverx\source\repos\basics\basics\obj\Debug\netcoreapp3.1\basics.AssemblyInfoInputs.cache
+C:\Users\Techverx\source\repos\basics\basics\obj\Debug\netcoreapp3.1\basics.AssemblyInfo.cs
+C:\Users\Techverx\source\repos\basics\basics\obj\Debug\netcoreapp3.1\basics.csproj.CoreCompileInputs.cache
+C:\Users\Techverx\source\repos\basics\basics\obj\Debug\netcoreapp3.1\basics.dll
+C:\Users\Techverx\source\repos\basics\basics\obj\Debug\netcoreapp3.1\basics.pdb
+C:\Users\Techverx\source\repos\basics\basics\obj\Debug\netcoreapp3.1\basics.genruntimeconfig.cache
